@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhishek Singh Rathore</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Singh Rathod</h1>
 <h3 align="center">Competitive Programmer | Full-Stack Developer | DSA Mentor</h3>
 
 ---
@@ -71,8 +71,8 @@ I enjoy mentoring, building impactful projects, and solving challenging problems
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek10293&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek10293&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
