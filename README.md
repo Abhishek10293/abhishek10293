@@ -88,8 +88,8 @@ I enjoy mentoring, building impactful projects, and solving challenging problems
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="mailto:abhishek.rathod.11202@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://www.linkedin.com/in/abhishek-singh-rathod-55a2ba250/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="abhishek.rathod.111202@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
 
 ---
